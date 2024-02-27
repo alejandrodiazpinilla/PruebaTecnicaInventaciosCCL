@@ -1,0 +1,6 @@
+@inventariosCCL_Alejandro_HostAddress = http://localhost:5209
+
+GET {{inventariosCCL_Alejandro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

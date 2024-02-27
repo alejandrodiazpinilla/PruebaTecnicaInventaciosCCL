@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\inventariosCCL_Alejandro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F18FB3-BF40-44F8-9237-A0E09CA57632}|inventariosCCL_Alejandro\\inventariosCCL_Alejandro.csproj|c:\\users\\alejandro\\desktop\\inventariosccl_alejandro\\inventariosccl_alejandro\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F18FB3-BF40-44F8-9237-A0E09CA57632}|inventariosCCL_Alejandro\\inventariosCCL_Alejandro.csproj|solutionrelative:inventariosccl_alejandro\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F18FB3-BF40-44F8-9237-A0E09CA57632}|inventariosCCL_Alejandro\\inventariosCCL_Alejandro.csproj|c:\\users\\alejandro\\desktop\\inventariosccl_alejandro\\inventariosccl_alejandro\\data\\inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F18FB3-BF40-44F8-9237-A0E09CA57632}|inventariosCCL_Alejandro\\inventariosCCL_Alejandro.csproj|solutionrelative:inventariosccl_alejandro\\data\\inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F18FB3-BF40-44F8-9237-A0E09CA57632}|inventariosCCL_Alejandro\\inventariosCCL_Alejandro.csproj|c:\\users\\alejandro\\desktop\\inventariosccl_alejandro\\inventariosccl_alejandro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F18FB3-BF40-44F8-9237-A0E09CA57632}|inventariosCCL_Alejandro\\inventariosCCL_Alejandro.csproj|solutionrelative:inventariosccl_alejandro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\inventariosCCL_Alejandro\\inventariosCCL_Alejandro\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "inventariosCCL_Alejandro\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\inventariosCCL_Alejandro\\inventariosCCL_Alejandro\\Models\\Products.cs",
+              "RelativeToolTip": "inventariosCCL_Alejandro\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:57:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryDB.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\inventariosCCL_Alejandro\\inventariosCCL_Alejandro\\Data\\InventoryDB.cs",
+              "RelativeDocumentMoniker": "inventariosCCL_Alejandro\\Data\\InventoryDB.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\inventariosCCL_Alejandro\\inventariosCCL_Alejandro\\Data\\InventoryDB.cs",
+              "RelativeToolTip": "inventariosCCL_Alejandro\\Data\\InventoryDB.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:14:21.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\inventariosCCL_Alejandro\\inventariosCCL_Alejandro\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "inventariosCCL_Alejandro\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\inventariosCCL_Alejandro\\inventariosCCL_Alejandro\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "inventariosCCL_Alejandro\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:16:52.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

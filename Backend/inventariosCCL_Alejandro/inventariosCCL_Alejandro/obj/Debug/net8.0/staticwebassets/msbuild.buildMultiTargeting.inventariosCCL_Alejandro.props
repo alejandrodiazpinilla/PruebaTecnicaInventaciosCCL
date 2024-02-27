@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\inventariosCCL_Alejandro.props" />
+</Project>
